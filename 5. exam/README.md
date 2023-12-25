@@ -1,0 +1,5 @@
+## Tested
+
+- bash ❓
+- shell ❓
+- zsh ✅
